@@ -1,0 +1,3 @@
+C:/Users/giorgio/StudioProjects/animeindexer_flutter/filepicker/windows/cmake-build-debug/CMakeFiles/filepicker_plugin.dir
+C:/Users/giorgio/StudioProjects/animeindexer_flutter/filepicker/windows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giorgio/StudioProjects/animeindexer_flutter/filepicker/windows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

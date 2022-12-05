@@ -1,0 +1,8 @@
+"C:\Program Files (x86)\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files (x86)/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\giorgio\StudioProjects\animeindexer_flutter\filepicker\windows -B C:\Users\giorgio\StudioProjects\animeindexer_flutter\filepicker\windows\cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:50 (set):
+  Cannot set "filepicker_bundled_libraries": current scope has no parent.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/giorgio/StudioProjects/animeindexer_flutter/filepicker/windows/cmake-build-debug
