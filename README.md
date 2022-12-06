@@ -11,7 +11,7 @@ import 'package:simple_filepicker_windows/simple_filepicker_windows.dart';
 
 void main() {
   final files = SimpleFilePickerWindows.showFilePicker(["*.png","*.pdf","myfile.*","mydocument.txt"],pickMultiple: false);
-  print(file);
+  print(files);
 }
 ```
 
